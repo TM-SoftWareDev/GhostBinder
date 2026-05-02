@@ -13,7 +13,7 @@ Extraction& Execution : When the final GhostBinder.exe is run, it locates the em
 Features
 Static Linking : Uses - static to ensure the final binary runs on systems without MinGW DLLs.
 
-Space Optimized : Automatically strips debug symbols(-s) and applies 
+Space Optimized : Automatically strips debug symbols(-s)
 
 Native Win32 : Built entirely using the Windows API for resource handling.
 
